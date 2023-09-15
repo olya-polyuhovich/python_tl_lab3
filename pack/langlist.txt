@@ -1,0 +1,10 @@
+1 af     afrikaans     hallo
+2 sq     albanian     Përshëndetje
+3 am     amharic     ሀሎ
+4 ar     arabic     مرحبًا
+5 hy     armenian     Բարեւ
+6 as     assamese     নমস্কাৰ
+7 ay     aymara     Kamisaki
+8 az     azerbaijani     Salam
+9 bm     bambara     aw ni baara
+10 eu     basque     kaixo

@@ -1,0 +1,10 @@
+1 afrikaans     af     Hello Wêreld
+2 albanian     sq     Përshendetje Botë
+3 amharic     am     ሰላም ልዑል
+4 arabic     ar     مرحبا بالعالم
+5 armenian     hy     Բարեւ աշխարհ
+6 assamese     as     হেল্ল' জগত
+7 aymara     ay     aruntt’apxsma akapacha
+8 azerbaijani     az     salam dunya
+9 bambara     bm     bonjour diɲɛ
+10 basque     eu     Kaixo Mundua
